@@ -39,5 +39,5 @@ out/
 
 ### user custom
 .metadata
-gradle
+#gradle
 gradlew*
